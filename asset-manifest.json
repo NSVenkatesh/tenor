@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tenor/static/css/main.76479909.css",
-    "main.js": "/tenor/static/js/main.8d0bb9e3.js",
+    "main.js": "/tenor/static/js/main.bfd91f8d.js",
     "index.html": "/tenor/index.html",
     "main.76479909.css.map": "/tenor/static/css/main.76479909.css.map",
-    "main.8d0bb9e3.js.map": "/tenor/static/js/main.8d0bb9e3.js.map"
+    "main.bfd91f8d.js.map": "/tenor/static/js/main.bfd91f8d.js.map"
   },
   "entrypoints": [
     "static/css/main.76479909.css",
-    "static/js/main.8d0bb9e3.js"
+    "static/js/main.bfd91f8d.js"
   ]
 }
